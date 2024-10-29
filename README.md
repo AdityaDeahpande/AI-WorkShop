@@ -1,2 +1,2 @@
-# AI-WorkShop
-Air Quality Prediction
+# Air Quality Prediction
+The Air Quality Prediction project leverages a machine learning (ML) model to forecast air pollution levels based on environmental data such as temperature, humidity, wind speed, and pollutant concentrations. By analyzing historical air quality data, the ML model learns patterns and predicts future air quality, helping users anticipate pollution levels in specific areas. The project aims to provide a user-friendly interface where users can view real-time predictions and trends, enabling proactive measures for public health and environmental awareness. This tool can be valuable for cities, environmental agencies, and individuals seeking to monitor and improve air quality.
